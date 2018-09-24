@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this project, we will generate our own Simpsons TV scripts using RNNs. The neural network we build will generate a new TV script for a scene at Moe's Tavern.
+In this project, we will generate our own Simpsons TV scripts using RNNs, specifically an LSTM in TensorFlow. The neural network we build will generate a new TV script for a scene at Moe's Tavern.
 
 ## Data
 
