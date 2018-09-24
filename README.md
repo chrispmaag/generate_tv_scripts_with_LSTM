@@ -2,11 +2,11 @@
 
 ## Summary
 
-In this project, we will generate our own Simpsons TV script using RNNs. The neural network we build will generate a new TV script for a scene at Moe's Tavern.
+In this project, we will generate our own Simpsons TV scripts using RNNs. The neural network we build will generate a new TV script for a scene at Moe's Tavern.
 
 ## Data
 
-We will be using part of the [Simpsons dataset] (https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons. We will be using a subset of the original dataset. It consists of only the scenes in Moe's Tavern.
+We will be using part of the [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons. We will be using a subset of the original dataset. It consists of only the scenes in Moe's Tavern.
 
 ## Preprocessing Functions
 
