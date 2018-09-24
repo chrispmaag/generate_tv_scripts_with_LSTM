@@ -42,8 +42,10 @@ def pick_word(probabilities, int_to_vocab):
     return word
 ```
 
+We'll select the next word using the softmax probabilities for each word.
+
 ## Results
 
 ![](images/lstm_output.png)
 
-We trained on less than a megabyte of text. For better results, we could use the broader Simpsons dataset.
+We trained on less than a megabyte of text and now have a sample script! For better results, we could use the broader Simpsons dataset.
